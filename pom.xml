@@ -4,9 +4,6 @@
     <groupId>com.ksapp</groupId>
 	<artifactId>ks</artifactId>
 	<version>3-SNAPSHOT</version>
-	<groupId>com.ptapp</groupId>
-	<artifactId>gc_key</artifactId>
-	<version>1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Web Application</name>
 	<description>Java Webapp</description>
